@@ -1,0 +1,7 @@
+EmployeeID,Name,DepartmentID,Salary,Experience,Department
+1,Amit,101,50000.0,2,IT
+2,Rahul,102,45000.0,3,HR
+3,Priya,101,60000.0,4,IT
+4,Sneha,103,55000.0,5,Finance
+5,Rohan,102,48000.0,2,HR
+6,Neha,101,51600.0,3,IT
