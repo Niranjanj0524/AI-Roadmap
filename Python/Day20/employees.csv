@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience
+1,Amit,23,Male,IT,50000,2
+2,Rahul,,male,IT,55000,3
+3,Priya,25,Female,HR,,4
+4,Sneha,27,F,HR,60000,5
+5,Amit,23,Male,IT,50000,2
+6,Rohan,29,M,Finance,65000,6
+7,Neha,24,Female,Finance,62000,3

@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience,Salary_Per_Year,age_cate
+1,Amit,23.0,male,IT,50000.0,2,25000.0,Young
+2,Rahul,25.166666666666668,male,IT,55000.0,3,18333.333333333332,Experienced
+3,Priya,25.0,female,HR,57000.0,4,14250.0,Experienced
+4,Sneha,27.0,female,HR,60000.0,5,12000.0,Experienced
+5,Amit,23.0,male,IT,50000.0,2,25000.0,Young
+6,Rohan,29.0,male,Finance,65000.0,6,10833.333333333334,Experienced
+7,Neha,24.0,female,Finance,62000.0,3,20666.666666666668,Young
